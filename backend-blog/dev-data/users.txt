@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "66533b5ec0be12d3c0c4b0da",
+    "email": "borisdimitrijevicit@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "boris dimitrijevic",
+    "role": "admin",
+    "isVerified": true
+  },
+  {
+    "_id": "6653488f8a9769eec5437bc7",
+    "email": "marko@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "Marko Nikolic",
+    "role": "admin"
+  },
+  {
+    "_id": "6653488f8a9769eec5437bc8",
+    "email": "vladimir@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "Vladimir Milosevic",
+    "role": "user",
+    "isBanned": true
+  },
+  {
+    "_id": "6653488f8a9769eec5437bc9",
+    "email": "loreana@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "Loreana Beatovic",
+    "role": "user"
+  },
+  {
+    "_id": "6653488f8a9769eec5437bca",
+    "email": "darko@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "Darko Molnar",
+    "role": "user"
+  },
+  {
+    "_id": "6653488f8a9769eec5437bcb",
+    "email": "andrijana@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "Andrijana Molnar",
+    "role": "user"
+  },
+  {
+    "_id": "6853488f8a9769eec5437bcb",
+    "email": "andrijana22@gmail.com",
+    "password": "12345678",
+    "passwordConfirm": "12345678",
+    "name": "Andrijana Molnar",
+    "role": "user"
+  }
+]

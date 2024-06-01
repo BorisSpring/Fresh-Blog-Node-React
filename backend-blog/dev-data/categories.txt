@@ -1,0 +1,12 @@
+[
+  { "_id": "60ad6be89fd3c020a85e3020", "name": "sport", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3021", "name": "technology", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3022", "name": "food", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3023", "name": "travel", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3024", "name": "music", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3025", "name": "fashion", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3026", "name": "health", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3027", "name": "education", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3028", "name": "business", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3029", "name": "art", "createdAt": "2024-05-25T00:00:00.000Z" }
+]

@@ -1,0 +1,17 @@
+[
+  { "_id": "60ad6be89fd3c020a85e3011", "name": "Technology", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3012", "name": "Travel", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3013", "name": "Food", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3014", "name": "Fashion", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3015", "name": "Health", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3016", "name": "Fitness", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3017", "name": "Photography", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3018", "name": "Music", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e3019", "name": "Art", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e301a", "name": "Design", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e301b", "name": "Nature", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e301c", "name": "Science", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e301d", "name": "History", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e301e", "name": "Literature", "createdAt": "2024-05-25T00:00:00.000Z" },
+  { "_id": "60ad6be89fd3c020a85e301f", "name": "Sports", "createdAt": "2024-05-25T00:00:00.000Z" }
+]

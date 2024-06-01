@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "60ad6be89fd3c020a85e3134",
+    "title": "Sample Blog Title 0",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "conclusion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "blog-1.png",
+    "createdAt": "2024-05-25T12:00:00.000Z",
+    "updatedAt": "2024-05-25T14:30:00.000Z",
+    "enabled": true,
+    "views": 1000,
+    "tags": [
+      "60ad6be89fd3c020a85e3011",
+      "60ad6be89fd3c020a85e3012",
+      "60ad6be89fd3c020a85e3013"
+    ],
+    "user": "66533b5ec0be12d3c0c4b0da",
+    "category": "60ad6be89fd3c020a85e3028"
+  },
+  {
+    "_id": "60ad6be89fd3c020a85e3129",
+    "title": "Sample Blog Title 1",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "conclusion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "blog-1.png",
+    "createdAt": "2024-05-25T12:00:00.000Z",
+    "updatedAt": "2024-05-25T14:30:00.000Z",
+    "enabled": true,
+    "views": 1000,
+    "tags": [
+      "60ad6be89fd3c020a85e3011",
+      "60ad6be89fd3c020a85e3012",
+      "60ad6be89fd3c020a85e3013"
+    ],
+    "user": "66533b5ec0be12d3c0c4b0da",
+    "category": "60ad6be89fd3c020a85e3021"
+  },
+  {
+    "_id": "60ad6be89fd3c020a85e3130",
+    "title": "Sample Blog Title 2",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "conclusion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "blog-1.png",
+    "createdAt": "2024-05-25T12:00:00.000Z",
+    "updatedAt": "2024-05-25T14:30:00.000Z",
+    "enabled": true,
+    "views": 1222,
+    "tags": [
+      "60ad6be89fd3c020a85e3011",
+      "60ad6be89fd3c020a85e3012",
+      "60ad6be89fd3c020a85e3013"
+    ],
+    "user": "66533b5ec0be12d3c0c4b0da",
+    "category": "60ad6be89fd3c020a85e3021"
+  },
+  {
+    "_id": "60ad6be89fd3c020a85e3131",
+    "title": "Sample Blog Title 3",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "conclusion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "blog-1.png",
+    "createdAt": "2024-05-25T12:00:00.000Z",
+    "updatedAt": "2024-05-25T14:30:00.000Z",
+    "enabled": true,
+    "views": 101200,
+    "tags": [
+      "60ad6be89fd3c020a85e3011",
+      "60ad6be89fd3c020a85e3012",
+      "60ad6be89fd3c020a85e3013"
+    ],
+    "user": "66533b5ec0be12d3c0c4b0da",
+    "category": "60ad6be89fd3c020a85e3021"
+  },
+  {
+    "_id": "60ad6be89fd3c020a85e3132",
+    "title": "Sample Blog Title Disabled 4",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "conclusion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "blog-1.png",
+    "createdAt": "2024-05-25T12:00:00.000Z",
+    "updatedAt": "2024-05-25T14:30:00.000Z",
+    "enabled": false,
+    "views": 101200,
+    "tags": [
+      "60ad6be89fd3c020a85e3011",
+      "60ad6be89fd3c020a85e3012",
+      "60ad6be89fd3c020a85e3013"
+    ],
+    "user": "66533b5ec0be12d3c0c4b0da",
+    "category": "60ad6be89fd3c020a85e3028"
+  },
+  {
+    "_id": "60ad6be89fd3c020a85e3133",
+    "title": "Sample Blog Title Disabled 5",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "conclusion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "image": "blog-1.png",
+    "createdAt": "2024-05-25T12:00:00.000Z",
+    "updatedAt": "2024-05-25T14:30:00.000Z",
+    "enabled": false,
+    "views": 101200,
+    "tags": [
+      "60ad6be89fd3c020a85e3011",
+      "60ad6be89fd3c020a85e3012",
+      "60ad6be89fd3c020a85e3013"
+    ],
+    "user": "66533b5ec0be12d3c0c4b0da",
+    "category": "60ad6be89fd3c020a85e3026"
+  }
+]

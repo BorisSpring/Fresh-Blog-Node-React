@@ -1,0 +1,54 @@
+[
+  {
+    "_id" : "60ad6be89fd3c020a85e3129",
+    "message":"Message 1",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3130",
+    "message":"Message 2",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3131",
+    "message":"Message 3",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3132",
+    "message":"Message 4",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3133",
+    "message":"Message 5",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3134",
+    "message":"Message 6",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3135",
+    "message":"Message 7",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3136",
+    "message":"Message 8",
+    "createdAt":"2024-05-27T12:00:00Z"
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3137",
+    "message":"Message 9",
+    "createdAt":"2024-05-27T12:00:00Z",
+    "isRead" : true
+  },
+  {
+    "_id" : "60ad6be89fd3c020a85e3138",
+    "message":"Message 10",
+    "createdAt":"2024-05-27T12:00:00Z",
+    "isRead" : true
+  }
+]
