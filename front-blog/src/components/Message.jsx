@@ -77,12 +77,6 @@ const Message = ({
             icon={<MdModeEdit />}
             style='update'
           />
-          <ActionButton
-            disabled={isActionPeforming}
-            onClick={() => onHandleOpenModal('replay')}
-            icon={<MdReply />}
-            style='main'
-          />
         </div>
       </div>
       {/* subject and message */}
